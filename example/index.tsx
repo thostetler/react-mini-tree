@@ -4,6 +4,8 @@ import * as ReactDOM from 'react-dom';
 import { MiniTree } from '../.';
 
 const App = () => {
+  const {} =  
+
   return (
     <div>
       <MiniTree data={[{ id: '1', label: 'df' }]} />
